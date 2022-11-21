@@ -1,0 +1,12 @@
+*** Django, Curso de Django para Principiantes ***
+Enlace: https://www.youtube.com/watch?v=T1intZyhXDU&t=96s
+____________________________________________________________
+1.- Pip (administrador de paquetes) 
+
+>> pip install virtualenv
+
+2.- virtualenv
+
+Enlace: https://www.youtube.com/watch?v=N9PdRkXOQ4w
+
+
